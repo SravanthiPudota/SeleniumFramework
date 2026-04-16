@@ -10,4 +10,5 @@ Examples:
   | searchText |
   | Selenium   |
   | Cucumber   |
+  | framework   |
   
