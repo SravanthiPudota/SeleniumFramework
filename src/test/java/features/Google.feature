@@ -9,5 +9,5 @@ Scenario Outline: Search for different keywords
 Examples:
   | searchText |
   | Selenium   |
-  | Cucumber   |
+  | TestNG     |
  
